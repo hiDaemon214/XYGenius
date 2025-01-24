@@ -1,0 +1,8 @@
+## Interface: 110002,110005
+## Title: 许愿精灵
+## Author: 达蒙
+## Version: 0.1
+## Notes: 团队频道输入xy+空格+许愿
+## SavedVariables: XyArray, DefaultDKP
+
+XyGenius.xml
